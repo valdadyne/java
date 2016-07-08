@@ -1,6 +1,7 @@
 **Q1** Write a java equation that prints out the next 20 leap years.
 
 **Solution**
+
     public class LeapYear {
 
         public static void main(String[] args) {
