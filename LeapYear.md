@@ -13,6 +13,6 @@
             leap = leap + 4; //every fourth year is leap
             
         }// loop ends
-        int i = 0
+        int i = 0;
         }
     }    
