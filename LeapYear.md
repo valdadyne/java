@@ -6,7 +6,7 @@
 
         public static void main(String[] args) {
         
-        int leap=2020;
+        int leap=2016;
         
         for (int i = 0; i <= 20; i++){ // print the next twenty leap years
             System.out.print(leap +"\n");
